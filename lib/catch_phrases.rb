@@ -8,3 +8,8 @@ def toadstool
   puts status
 end
 
+def link
+  catch_phrase = "It's Dangerous To Go Alone! Take This."
+  puts catch_phrase
+end
+
